@@ -13,5 +13,8 @@ d. Restart VS Code
 int main(){
     printf("\tHello World!\n");
     printf("\t\tReviewing C!\n");
+    printf("Lorem\n");
+    printf("Ipsum");
+    printf("\rdommet\n");
     return 0;
 }
