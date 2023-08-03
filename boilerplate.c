@@ -16,6 +16,8 @@ macro definitions to be shared between several source files: https://www.tutoria
 #include <stdlib.h>
 //string library, imports string methods
 #include <string.h>
+//math library
+#include <math.h>
 
 #define RATE 95 //this is a "globally defined macro", used as a constant value which
 //is evaluated before all other parts of a file, pre-processed so uses less resources. 
